@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html> </<!DOCTYPE html>
+  <head>
+   
+    <title>ИТ (40)</title>
+  </head>
+  <body style="background-color:#ffeeff">
+    <h1 align="center">Таблица текущей успеваемости студентов 40 группы </h1>
+    <h2 align="center"> Основы организации и планирования сварочных работ 2021-2022 учебный год </h2>
+<style type="text/css">
+.tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
+.tftable th {font-size:12px;background-color:#acc8cc;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;text-align:left;}
+.tftable tr {background-color:#d4e3e5;}
+.tftable td {font-size:12px;border-width: 1px;padding: 3px;border-style: solid;border-color: #729ea5;}
+.tftable tr:hover {background-color:#ffffff;}
+</style>
+
+<table class="tftable" border="1">
+<tr><th>Фамилия обучающегося</th><th>Средства реализации информа-ционных процессов</th><th>Автоматизи-рованное рабочее место специалиста</th><th>Операцион-ные системы</th><th>Пакеты прикладных программ</th><th>Установка ПО</th><th>КР №1</th><th>Информация и формы ее представления</th><th>Расширение файла и тип данных</th><th>Поиск информации</th><th>Сканиро-вание</th><th>Принтер, плоттер</th><th>Аудио- и видео-отображение информации</th><th>Настройка утройств вывода</th><th>КР №2</th><th>Интегриро-ванные пакеты</th><th>Автокад</th><th>Практика</th><th>Лира</th><th>Практика</th><th>КР №3</th><th>Итоговая оценка</th><th>Фамилия обучающегося</th></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+  </body>
+</html>
+© 2021 GitHub, Inc.
